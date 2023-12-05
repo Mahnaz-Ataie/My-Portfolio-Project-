@@ -1,0 +1,6 @@
+@media screen and (max-width: 762px) {
+  iframe {
+    display: block;
+    size: 300;
+  }
+}

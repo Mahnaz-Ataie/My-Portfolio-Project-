@@ -1,0 +1,50 @@
+.about-me-description {
+  font-size: 20px;
+  font-family: normal;
+  margin-left: 20px;
+}
+
+.about-me-image {
+  padding-bottom: 4px;
+  height: 500px;
+  width: 600px;
+  border: 1px solid darkblue;
+  /* margin-bottom 25px; */
+  margin-top: 20px;
+}
+
+.about-me-text {
+  text-transform: uppercase;
+  font-family: normal;
+  letter-spacing: 1.5;
+  color: black;
+  font-size: 50px;
+  font-weight: 500;
+  line-height: 80px;
+  align-self: stretch;
+}
+
+@media screen and (max-width:1124px) {
+  .about-me-image {
+    width: 300px;
+    height: 300px;
+  }
+
+  .about-me-text {
+    font-weight: 300;
+    font-size: 30px;
+  }
+
+}
+
+@media screen and (max-width:1146px) {
+  .about-me-image {
+    width: 300px;
+    height: 300px;
+  }
+
+  .about-me-text {
+    font-weight: 300;
+    font-size: 30px;
+  }
+}

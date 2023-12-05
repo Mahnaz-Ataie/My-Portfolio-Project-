@@ -1,0 +1,24 @@
+
+header {
+  width: 100%;
+}
+#navbar ul {
+  margin-right: right;
+}
+#navbar li {
+  margin: 10px;
+  font-size: large;
+  font-family: normal;
+  cursor: pointer;
+ 
+}
+.navbar-title{
+  margin-left: 80px;
+}
+
+
+
+.navbar {
+  width: 100%;
+  transition: background-color 1s ease;
+}

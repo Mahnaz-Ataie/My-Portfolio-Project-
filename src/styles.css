@@ -1,0 +1,92 @@
+.App {
+  font-family: sans-serif;
+}
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: "Roboto", ans-serif;
+  -moz-osx-font-smoothing: "Roboto", ans-serif;
+  font-style: normal;
+  background-color: #e0f4ff;
+}
+.dark-theme {
+  --text: white;
+  --page-background: black;
+  --cart-background: #03001c;
+}
+
+.header-section {
+  background-color: var(--page-background);
+}
+
+.home--section-description {
+  color: var(--text);
+}
+
+.home-paragraph {
+  color: var(--text);
+}
+#about {
+  background-color: var(--page-background);
+}
+.about-me-description {
+  color: var(--text);
+}
+.second-column h2 {
+  color: var(--text);
+}
+.my-timeline {
+  color: var(--text);
+}
+.skills-box p {
+  color: var(--text);
+}
+.skills-section {
+  background-color: var(--page-background);
+}
+.skills-box h1 {
+  color: var(--text);
+}
+.bars-title {
+  color: var(--text);
+}
+.second-column p {
+  color: var(--text);
+}
+.contact-me-section {
+  background-color: var(--page-background);
+}
+.second-column h1 {
+  color: var(--text);
+}
+.contact--me h1 {
+  color: var(--text);
+}
+.project-section {
+  background-color: var(--page-background);
+}
+.container h1 {
+  color: var(--text);
+}
+.cart {
+  background: var(--cart-background);
+  color: var(--cart-background);
+}
+.cart h3 {
+  color: var(--text);
+}
+.cart p {
+  color: var(--text);
+}
+.Footer {
+  background-color: var(--page-background);
+}
+.first-column h3 {
+  color: var(--text);
+}
+.second-column h3 {
+  color: var(--text);
+}
+.second-column p {
+  color: var(--text);
+}

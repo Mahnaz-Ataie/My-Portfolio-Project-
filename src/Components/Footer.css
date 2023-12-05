@@ -1,0 +1,56 @@
+.Footer {
+  color: black;
+  padding: 2rem;
+  margin-top: 0rem;
+  font-family: normal;
+}
+.ft-1 h3 {
+  font-weight: 700;
+  font-family: normal;
+  letter-spacing: 2px;
+  padding: 0.5rem 0;
+}    
+.ft-1 span {
+  color:darkblue;
+}
+.footer-icons i {
+  padding: 0.4rem;
+  background: #a9a9a9;
+  color: darkblue;
+  margin: 0 0.5rem;
+  border-radius: 50%;
+}
+.footer-icons i:hover {
+ 
+  color: black;
+  transition: 0.6s;
+  cursor: pointer;
+}
+.ft-2 h3 {
+  font-weight: 700;
+  font-family: normal;
+  letter-spacing: 2px;
+  padding: 0.5rem 0;
+}
+.ft-2 span {
+  color: darkblue;
+}
+.ft-2 i {
+  padding-right: 0.5rem;
+}
+.ft-2 p {
+  font-weight: 500;
+  padding: 0.1rem 0;
+  font-size: 1.06rem;
+}
+.last-footer {
+  background: darkblue;
+  text-align: center;
+  padding: 1rem 0;
+}
+.last-footer p {
+  margin-bottom: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: white;
+}
